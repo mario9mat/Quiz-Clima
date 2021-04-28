@@ -1,0 +1,38 @@
+div ul{
+    margin: 0px;
+    list-style-type: none;
+    display: flex;
+}
+
+#menu{
+    position: relative;
+    top: -630px;
+    border-style: solid;
+    width: 36%;
+}
+button{
+    border: 0px;
+    background-color: white;
+    padding-right: 50px;
+
+} 
+
+img{
+    position: relative;
+    top: 20px;  
+    left: -20px;
+    height: 7%;
+}
+#derLogo{
+    position: relative;
+    top: -680px;
+    left: 950px;
+    width: 36%;
+
+}
+
+#temp{
+    position: relative;
+    top: 60px;
+    left:-50px;
+}
